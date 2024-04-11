@@ -1,0 +1,44 @@
+@import url(carrucel.css);
+@import url(index.css);
+@import url(bienvenidos.css);
+@import url(https://fonts.googleapis.com/css?family=Kanit);
+@import url(blog.css);
+@import url(info.css);
+@import url(quienes.css);
+@import url(seg_titulo.css);
+@import url(galeria.css);
+@import url(contactanos.css);
+@import url(icono.css);
+@import url(banner.css);
+@import url(inicio_sesion.css);
+@import url(galeria1.css);
+@import url(galeria2.css);
+@import url(galeria3.css);
+@import url(galeria4.css);
+@import url(carrusel_edit.css);
+*{
+    margin: 0%;
+    font-family: 'Kanit';
+    
+   text-align: center;
+}
+body{
+    background-image: url(black_and_white_Grunge_paint_background.jpg);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+
+}
+
+
+
+    /*cambiar color letras uwu*/
+
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+
+}
+.navbar-brand{
+    color: rgb(0, 0, 0)  !important;
+}

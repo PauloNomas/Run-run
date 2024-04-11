@@ -1,0 +1,21 @@
+#info{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#info .contenedor img{
+    width: 350px;
+    height: 250px;
+    border: solid 4px ivory;
+    border-radius: 20px;
+}
+#info .contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    flex-wrap: wrap;
+}
+#info .contenedor article{
+    margin: 50px;
+}
